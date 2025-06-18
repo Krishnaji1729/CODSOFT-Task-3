@@ -17,4 +17,5 @@ This is a simple yet effective **Password Generator** built using Python. It all
 ---
 
 ## 📂 Project Structure
+![Image](https://github.com/user-attachments/assets/e907d13b-a7c6-4126-89c7-f10f25c0d14a)
 
